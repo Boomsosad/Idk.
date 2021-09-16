@@ -3,5 +3,14 @@ local check = "https://boomhub.000webhostapp.com/check.php/check.php?key=" .. ke
 if game:HttpGet(check) == "Whitelisted" then
 loadstring(game:HttpGet("https://boomhub.000webhostapp.com/script.lua"))()
 else
-game.Players.LocalPlayer:Kick("Reset hwid.")
+game.Players.LocalPlayer:Kick("HWID ไม่ตรงรันทำเหี้ยไร??
+HWID ไม่ตรงรันทำเหี้ยไร??
+HWID ไม่ตรงรันทำเหี้ยไร??
+HWID ไม่ตรงรันทำเหี้ยไร??
+HWID ไม่ตรงรันทำเหี้ยไร??
+HWID ไม่ตรงรันทำเหี้ยไร??
+HWID ไม่ตรงรันทำเหี้ยไร??
+HWID ไม่ตรงรันทำเหี้ยไร??
+HWID ไม่ตรงรันทำเหี้ยไร??
+HWID ไม่ตรงรันทำเหี้ยไร??")
 end
